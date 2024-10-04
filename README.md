@@ -1,4 +1,4 @@
-[![Video Title](https://img.youtube.com/vi/DLszg2ul85U&t/0.jpg)](https://www.youtube.com/watch?v=DLszg2ul85U&t=850s)
+[![Video Title](https://img.youtube.com/vi/DLszg2ul85U/0.jpg)](https://www.youtube.com/watch?v=DLszg2ul85U)
 
 https://github.com/tamani-coding/fullstack-oauth2-angular-spring-boot-keycloak
 
