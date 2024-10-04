@@ -1,3 +1,9 @@
+
+[![Watch the video](https://www.youtube.com/watch?v=DLszg2ul85U&t=850s)]
+
+
+https://github.com/tamani-coding/fullstack-oauth2-angular-spring-boot-keycloak
+
 # fullstack-oauth2-angular-spring-boot-keycloak
 An OAuth2 fullstack example with keycloak, angular and spring boot.
 ## setup keycloak
